@@ -100,7 +100,7 @@ python2 train.py \
     --fusing_method lowrank_BP
 ```
 
-###Other fusing methods
+### Other fusing methods
 
 You can modify `--fusing_method` to train the model by different fusing methods: `lowrank_BP`, `FiLM` and default is `concat`
 
