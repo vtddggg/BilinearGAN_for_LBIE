@@ -1,5 +1,5 @@
 # BilinearGAN_for_LBIE
-Implementation of our paper [Bilinear Representation for Language-Based Image Editing using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1903.07499) in ICASSP2019
+Implementation of the paper [Bilinear Representation for Language-Based Image Editing using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1903.07499) in ICASSP2019
 
 ![Results](images/architecture.png)
 
